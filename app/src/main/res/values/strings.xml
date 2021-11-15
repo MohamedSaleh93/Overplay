@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Overplay</string>
+    <string name="session_count">Session Count: %1$d</string>
+    <string name="gyroscope_sensor_not_found">It seems you don\'t have gyroscope sensor, some features will not work with you</string>
 </resources>
